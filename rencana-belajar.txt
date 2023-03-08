@@ -1,0 +1,3 @@
+# Rencana belajar Git dan Github
+- belajar mengenai pull
+- belajar mengenai push
