@@ -4,3 +4,4 @@ Belajar Github
 - belajar cara push
 - belajar cara clone
 - belajar cara remote
+- belajar cara merge
