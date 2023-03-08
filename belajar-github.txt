@@ -1,0 +1,6 @@
+Belajar Github
+- belajar cara pull
+- belajar cara commit
+- belajar cara push
+- belajar cara clone
+- belajar cara remote
